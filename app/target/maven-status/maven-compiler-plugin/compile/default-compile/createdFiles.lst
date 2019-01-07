@@ -1,0 +1,12 @@
+handlers/SearchHandler.class
+mechanism/App.class
+gui/AppGui$Sort_Messages.class
+mechanism/Measurement.class
+handlers/RefreshHandler.class
+gui/AppGui.class
+handlers/TextFieldHandler.class
+gui/ConnectionGui.class
+mechanism/MeasurementList.class
+handlers/ClearHandler.class
+handlers/SearchHandler$ButtonHandler.class
+handlers/SortHandler.class
